@@ -4,9 +4,11 @@
 
 本项目用于快捷将Notion中的笔记同步到个人Blog上
 
+使用Python实现
+
 ## 适用Blog框架
 
-目前仅适配Hexo (Hexo的.config.yaml中需要打开post对应资源文件夹的功能)
+目前仅适配**Hexo** (Hexo的.config.yaml中需要打开post对应资源文件夹的功能)
 
 ## 目前的实现方案
 
